@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorit</string>
+    <string name="app_title">المفضلات</string>
+    <string name="subtitle_favorites">احفظ روابطك، أفكارك، وأماكنك المفضلة</string>
+
+    <!-- Filter Categories -->
+    <string name="cat_all">الكل</string>
+    <string name="cat_link">روابط</string>
+    <string name="cat_place">أماكن</string>
+    <string name="cat_note">ملاحظات</string>
+    <string name="cat_other">أخرى</string>
+
+    <!-- Dialog Strings -->
+    <string name="add_favorite">إضافة عنصر مفضل</string>
+    <string name="edit_favorite">تعديل العنصر</string>
+    <string name="title_hint">العنوان (مثال: رابط المقالة، اسم الكافيه)</string>
+    <string name="details_hint">الوصف أو الرابط أو تفاصيل المكان</string>
+    <string name="category_label">التصنيف:</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="delete_confirm_title">تأكيد الحذف</string>
+    <string name="delete_confirm_msg">هل أنت تأكد من رغبتك في حذف هذا العنصر من المفضلات؟</string>
+
+    <!-- Search & Actions -->
+    <string name="search_hint">ابحث في المفضلات…</string>
+    <string name="open_link">فتح الرابط</string>
+    <string name="share">مشاركة</string>
+    <string name="copied">تم نسخ الرابط/النص</string>
+
+    <!-- Empty State -->
+    <string name="empty_title">لا توجد مفضلات بعد!</string>
+    <string name="empty_desc">قم بإضافة الأماكن، الروابط، والأفكار التي تهمك للوصول إليها بسرعة في أي وقت.</string>
+
+    <!-- Messages -->
+    <string name="item_added">تمت إضافة العنصر بنجاح</string>
+    <string name="item_updated">تم تحديث العنصر بنجاح</string>
+    <string name="item_deleted">تم حذف العنصر</string>
+    <string name="error_empty_title">يرجى إدخال عنوان للعنصر</string>
+    <string name="total_items">إجمالي العناصر: %1$d</string>
+</resources>

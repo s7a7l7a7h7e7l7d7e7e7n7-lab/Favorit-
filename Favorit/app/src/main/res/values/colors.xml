@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Brand Palette -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_light">#EEF2FF</color>
+    <color name="accent">#F59E0B</color>
+
+    <!-- Neutral Colors -->
+    <color name="bg_main">#F3F4F6</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#4B5563</color>
+    <color name="divider">#E5E7EB</color>
+
+    <!-- Star & Actions -->
+    <color name="star_active">#F59E0B</color>
+    <color name="star_inactive">#D1D5DB</color>
+    <color name="delete_red">#EF4444</color>
+
+    <!-- Categories -->
+    <color name="cat_link_bg">#E0F2FE</color>
+    <color name="cat_link_text">#0369A1</color>
+
+    <color name="cat_place_bg">#DCFCE7</color>
+    <color name="cat_place_text">#166534</color>
+
+    <color name="cat_note_bg">#FEF3C7</color>
+    <color name="cat_note_text">#92400E</color>
+
+    <color name="cat_other_bg">#F3E8FF</color>
+    <color name="cat_other_text">#7E22CE</color>
+</resources>
